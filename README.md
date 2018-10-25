@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Contact Info
 
 You can use the [editor on GitHub](https://github.com/wdeaton/ContactInfo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
